@@ -1,3 +1,14 @@
+
+# Positions
+1. C++ Dev
+1. Senior Backend (Python, C++)
+1. Data Engineer
+1. Embedded Dev
+1. TinyML
+1. ML Engineer
+
+- [CV_C++](./CV_C++.md)
+
 # Xiaorui Liu
 **Embedded Machine Learning C++ Developer** | **Montreal, Quebec, Canada**\
 Email: liuxiaorui2009@gmail.com | Phone: +14388665223 | LinkedIn: [www.linkedin.com/in/liu-xiaorui](www.linkedin.com/in/liu-xiaorui)
