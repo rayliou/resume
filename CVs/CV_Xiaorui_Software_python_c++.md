@@ -53,4 +53,5 @@ Played a pivotal role in the development and optimization of an advertising sear
 Spearheaded the redesign of SSL VPN architecture at Topsec, implementing key enhancements such as three major proxies (web, port forward, tunnel), a customizable client portal, and CLI/Web management solutions. I conducted an in-depth study of Apache’s internal mechanisms to boost system functionality and designed an efficient AAA system, enhancing web traffic management using Apache filters and handlers in a C/C++ Linux environment. My efforts also included optimizing SSL cipher configurations and performing competitive product analysis to drive strategic enhancements.
 
 ## Education
-*
+**Bachelor's Degree in Applied Mathematics**, Beijing Institute of Technology | 1997 - 2001
+

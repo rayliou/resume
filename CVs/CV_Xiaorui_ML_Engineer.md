@@ -56,3 +56,4 @@ Spearheaded the redesign of SSL VPN architecture at Topsec, implementing key enh
 
 ## Education
 **Bachelor's Degree in Applied Mathematics**, Beijing Institute of Technology | 1997 - 2001
+
