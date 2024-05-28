@@ -9,11 +9,11 @@ header-includes:
 
 
 # Xiaorui Liu
-**Machine Learning Developer/C++,Python/Distribute System** | **Montreal, Quebec, Canada**\
+C++/Python Developer for Machine Learning/Distribute System/Algorithm Trading/Embedded** | **Montreal, Quebec, Canada**\
 Email: liuxiaorui2009@gmail.com | Phone: +14388665223 | LinkedIn: [www.linkedin.com/in/liu-xiaorui](www.linkedin.com/in/liu-xiaorui)
 
 ## Summary
-A highly skilled machine learning engineer proficient in Python, C++, Java, and Linux, with extensive experience in both training and inference. For training, I specialize in large-scale data processing and standalone single-machine workflows. For inference, I optimize embedded systems to deliver efficient, high-performance solutions. Familiar with PyTorch, TensorFlow, Docker, Hadoop, and Azure, I excel at developing scalable, high-impact systems.
+Experienced Senior Developer specializing in high-performance data processing, distributed systems, and algorithmic trading systems. Proficient in designing and implementing solutions using C++, Python, and Linux. My expertise includes optimizing machine learning (ML) and neural network algorithms for various applications, including voice recognition and digital signal processing. I have a strong background in developing large-scale data environments and managing distributed systems. With a Bachelor's degree in Applied Mathematics, I excel in translating complex mathematical algorithms into efficient code. Adept at working in agile environments, I thrive in both remote and collaborative settings.
 
 ## Technical Skills
 - **Languages:** C++, Java, Python, Perl, Bash
@@ -56,4 +56,3 @@ Spearheaded the redesign of SSL VPN architecture at Topsec, implementing key enh
 
 ## Education
 **Bachelor's Degree in Applied Mathematics**, Beijing Institute of Technology | 1997 - 2001
-

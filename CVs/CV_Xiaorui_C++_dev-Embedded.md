@@ -9,7 +9,7 @@ header-includes:
 
 
 # Xiaorui Liu
-**Senior C++/Python Developer for Embedded/Machine Learning/Distribute System** | **Montreal, Quebec, Canada**\
+C++/Python Developer for Embedded/Machine Learning/Distribute System/Algorithm Trading** | **Montreal, Quebec, Canada**\
 Email: liuxiaorui2009@gmail.com | Phone: +14388665223 | LinkedIn: [www.linkedin.com/in/liu-xiaorui](www.linkedin.com/in/liu-xiaorui)
 
 ## Summary
@@ -34,10 +34,10 @@ Leveraging my hands-on experience in deep learning and C++ development, I effici
 
 Led a team including interns to implement computer vision and power management functionalities using Python and Bash within a Docker environment based on Microsoft Azure IoT solutions. Successfully ported Nvidia pre-trained models to this IoT Docker environment using DeepStream.
 
-### Gap Period: Family Reunion and Travel
+### Gap Period: Algorithmic Trading Development and Global Exploration
 **China,Canada and the Philippines | Jun 2018 - May 2022**
 
-Traveled from China to Canada for a family reunion, followed by a leisure trip to the Philippines before returning to Canada.
+While traveling from China to Canada and the Philippines, I developed U.S. equities trading strategies using C++17 and Python. Leveraging IBKR data, I focused on mean reversion and cointegration pair trading, enhancing my expertise through rigorous backtesting and real-time implementation.
 
 ### Alibaba Group - Software Development Specialist
 **Beijing, China | Aug 2013 - Jun 2018**
